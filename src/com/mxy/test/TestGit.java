@@ -3,8 +3,7 @@ package com.mxy.test;
 public class TestGit {
 	
 	public static void main(String[] args) {
-		System.out.println("²âÊÔgit");
-		System.out.println("µÚ¶ş´ÎÌá½»");
+	    System.out.println("ç¬¬ä¸‰æ¬¡æäº¤");
 		
 	}
 
